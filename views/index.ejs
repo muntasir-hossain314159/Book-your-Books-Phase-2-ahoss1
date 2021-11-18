@@ -372,12 +372,13 @@
                   </div>
                   
               </div>
+          </div>
       
           <button class="carousel-control-next" type="button" data-bs-target="#mostPopular" data-bs-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
           </button>
-          </div>
+          
       </div>
   </div>
 </div>  
@@ -552,11 +553,11 @@
           </button>  
           
           <div class="carousel-inner course-carousel" role="listbox">
-              <% for(let i = 0; i < courseBookData.length; i++) {let index; %>
+              <% let index; for(let i = 0; i < courseBookData.length; i++) { %>
               <% if(i == 0) { %>
-                  <div class="carousel-item active">
-              <% } else if(i % 6 == 0) { index = i + 6; %>
-                  <div class="carousel-item">
+                <div class="carousel-item active">
+              <% } else if(i % 6 == 0) { index = i + 5; %>
+                <div class="carousel-item">
               <% } %>
                 <div class="col-lg-2">
                   <div class="card h-100">
@@ -572,8 +573,8 @@
                 </div>
               <% if(i == 5) { %>
                 </div> 
-              <% } else if (i == index) { %>
-                  </div>
+              <% } else if (i == index || i == courseBookData.length - 1) { %>
+                </div>
               <% } }; %>          
           </div>
       
@@ -585,7 +586,7 @@
   </div> 
 </div>
 
-<!--Coure Courses-->
+<!--Core Courses-->
 <h2 class="title">Core Courses</h2>
 <!---Container Medium-->
 <div class="d-lg-none container-medium">    
@@ -858,12 +859,13 @@
                         </div>
                   </div>  
               </div>
+          </div>
       
           <button class="carousel-control-next" type="button" data-bs-target="#coreCourses" data-bs-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
           </button>
-          </div>
+        
       </div>
   </div>
 </div>  
