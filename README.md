@@ -8,7 +8,7 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 <img src = "./screenshots/Home.png">
 
 ## Search Page
-<img src = "./screenshots/Search.PNG">
+<img src = "./screenshots/Search.png">
 
 ## Sign Up Page
 <img src = "./screenshots/Sign Up.PNG">
@@ -20,19 +20,26 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 <img src = "./screenshots/Sign In.PNG">
 
 ## Successful Log In
-<img src = "./screenshots/Successful Sign In.PNG">
+<img src = "./screenshots/Successful Sign In.png">
 
 ## User Account Information 
 <img src = "./screenshots/User Account Information.PNG">
 
 ## My Sellings (Sell Course Book)
-<img src = "./screenshots/My Sellings.PNG">
+<img src = "./screenshots/My Sellings.png">
 
 ## Successful Upload
 <img src = "./screenshots/Successful Upload.PNG">
 
 ## Recently Added Section (Home Page) after Upload
 <img src = "./screenshots/Recently Added after Upload.PNG">
+
+## Logout
+<img src = "./screenshots/Log Out.PNG">
+
+## Bootstrap Responsiveness
+<img src = "./screenshots/Bootstrap.png">
+
 
 
 
