@@ -8,16 +8,33 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 <img src = "./screenshots/Home.png">
 
 ## Search Page
-<img src = "./screenshots/Search.png">
+<img src = "./screenshots/Search.PNG">
 
 ## Sign Up Page
 <img src = "./screenshots/Sign Up.PNG">
 
-## Successful Sign Up and Login
+## Successful Sign Up & Login
 <img src = "./screenshots/Successful Sign Up and Login.PNG">
 
 ## Sign In Page
 <img src = "./screenshots/Sign In.PNG">
+
+## Successful Log In
+<img src = "./screenshots/Successful Sign In.PNG">
+
+## User Account Information 
+<img src = "./screenshots/User Account Information.PNG">
+
+## My Sellings (Sell Course Book)
+<img src = "./screenshots/My Sellings.PNG">
+
+## Successful Upload
+<img src = "./screenshots/Successful Upload.PNG">
+
+## Recently Added Section (Home Page) after Upload
+<img src = "./screenshots/Recently Added after Upload.PNG">
+
+
 
 
 
