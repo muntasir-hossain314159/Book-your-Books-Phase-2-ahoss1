@@ -45,6 +45,6 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 Name: Muntasir Hossain <br>
 Email: ahoss1@unh.newhaven.edu <br>
 
-Computer Science junior majoring at the University of New Haven. Full Stack Developer with experience in HTML, CSS, and JavaScript. 
+Computer Science junior majoring at the University of New Haven. Full Stack Developer with experience in HTML, CSS, JavaScript, EJS, Bootstrap, NodeJS, ExpressJS, and MongoDB 
 
 
