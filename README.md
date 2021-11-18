@@ -13,13 +13,13 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 ## Sign Up Page
 <img src = "./screenshots/Sign Up.PNG">
 
-## Successful Sign Up & Login
+## Successful Sign Up
 <img src = "./screenshots/Successful Sign Up and Login.PNG">
 
 ## Sign In Page
 <img src = "./screenshots/Sign In.png">
 
-## Successful Log In
+## Successful Sign In
 <img src = "./screenshots/Successful Sign In.PNG">
 
 ## User Account Information 
