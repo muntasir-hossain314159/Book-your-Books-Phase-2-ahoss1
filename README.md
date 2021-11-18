@@ -17,10 +17,10 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 <img src = "./screenshots/Successful Sign Up and Login.PNG">
 
 ## Sign In Page
-<img src = "./screenshots/Sign In.PNG">
+<img src = "./screenshots/Sign In.png">
 
 ## Successful Log In
-<img src = "./screenshots/Successful Sign In.png">
+<img src = "./screenshots/Successful Sign In.PNG">
 
 ## User Account Information 
 <img src = "./screenshots/User Account Information.PNG">
@@ -39,13 +39,6 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 
 ## Bootstrap Responsiveness
 <img src = "./screenshots/Bootstrap.png">
-
-
-
-
-
-
-
 
 ## Developer Information
 
