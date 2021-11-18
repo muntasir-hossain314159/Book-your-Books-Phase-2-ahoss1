@@ -5,16 +5,23 @@
 In Phase - 2, I designed and created the home page (header & footer), sign-in page, and search page. In the initial phase, I used raw HTML and CSS without any supporting framework to layout the design. In Phase - 2, I intend to integrate the CSS framework, Bootstrap, for responsive and fluid design. Furthermore, I intend to complete the home and courses page by adding the carousel. The carousel would allow the user to view the different books that are available for each course.  
 
 ## Home Page
-<img src = "./Screenshots/Home Page.PNG">
-
-## Sign In Page
-<img src = "./Screenshots/Sign In.PNG">
+<img src = "./screenshots/Home.png">
 
 ## Search Page
-<img src = "./Screenshots/Search.PNG">
+<img src = "./screenshots/Search.png">
 
-## Footer
-<img src = "./Screenshots/Footer.PNG">
+## Sign Up Page
+<img src = "./screenshots/Sign Up.PNG">
+
+## Successful Sign Up and Login
+<img src = "./screenshots/Successful Sign Up and Login.PNG">
+
+## Sign In Page
+<img src = "./screenshots/Sign In.PNG">
+
+
+
+
 
 ## Developer Information
 
