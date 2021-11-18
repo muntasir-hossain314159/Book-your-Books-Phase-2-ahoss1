@@ -37,7 +37,7 @@ In Phase - 2, I designed and created the home page (header & footer), sign-in pa
 ## Logout
 <img src = "./screenshots/Log Out.PNG">
 
-## Bootstrap Responsiveness
+## Responsiveness Website - Bootstrap
 <img src = "./screenshots/Bootstrap.png">
 
 ## Developer Information
